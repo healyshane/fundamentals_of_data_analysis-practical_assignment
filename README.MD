@@ -11,4 +11,4 @@ This was performed in a Jupyter Notebook, available through Anaconda distributio
 
 Git was used to track changes to repository and Jupyter Notebook.
 
-To view and run the Jupyter Notebook, right click on .pynb file, Save link as... to your machine and run Jupyter Notebook through Command Line.
+To view and run the Jupyter Notebook, right click on .pynb file, Save link as... to your machine and run Jupyter Notebook through Command Line. The data file, asc_data.csv, is saved to repository and will also need to be saved to local machine as Jupyter Notebook references it.
